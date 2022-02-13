@@ -1,0 +1,13 @@
+Ce projet d'échec a été réalisé pour notre S2 en DUT Informatique, par le groupe de Thomas DORBY et Thomas PERROT.
+L'objectif était de réaliser un jeu d'échec en Java sans interface Homme-Machine.
+
+Les fonctionnalités manquantes sont la sauvegarde et les coups spéciaux tels que le Roque, la Prise en Passant etc..
+
+Afin de lancer le jeu, vous devez effectuer la commande dans un terminal en étant dans le dossier du fichier que vous lisez:
+  $ java -jar ChessGame-Java.jar
+
+Les coordonnées de déplacement doivent être écrites par exemple a2.
+
+La JavaDoc est disponible dans le dossier correspondant, ouvrez le fichier index.html pour la consulter.
+
+Nous vous remercions d'avoir prêté attention à ce projet et de nous avoir aidé à le réaliser.
